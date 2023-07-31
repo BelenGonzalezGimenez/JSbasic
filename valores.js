@@ -1,0 +1,1 @@
+//obtenemos el tipo de dato mediante la palabra reservada typeof
